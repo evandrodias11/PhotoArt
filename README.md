@@ -40,7 +40,7 @@ O projeto está disponível online e pode ser acessado em:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/evandrodias11/photoart-portfolio.git
+   git clone https://github.com/evandrodias11/PhotoArt.git
    ```
 
 2. **Acesse o diretório do projeto**:
@@ -60,6 +60,10 @@ O projeto está disponível online e pode ser acessado em:
 
 5. **Acesse o projeto**:
    Abra o navegador e acesse `http://localhost:5173`.
+
+## Repositório no GitHub
+
+O código-fonte está disponível no GitHub: [https://github.com/evandrodias11/PhotoArt](https://github.com/evandrodias11/PhotoArt).
 
 ## Estrutura de Pastas
 
@@ -94,4 +98,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
